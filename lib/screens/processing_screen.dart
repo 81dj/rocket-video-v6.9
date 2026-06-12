@@ -168,7 +168,7 @@ class _ProcessingScreenState extends State<ProcessingScreen> {
                   borderRadius: BorderRadius.circular(10),
                 ),
                 child: const Text(
-                  'v1.0.6',
+                  'v1.0.7',
                   style: TextStyle(color: Colors.white, fontSize: 12),
                 ),
               ),

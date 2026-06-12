@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'transcript_input_screen.dart';
 
-const String appVersion = 'v1.0.6';
+const String appVersion = 'v1.0.7';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
